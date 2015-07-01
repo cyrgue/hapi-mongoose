@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cyrille Guerin <cyrille@cyrgue.com> (http://www.cyrgue.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^8.6.1"
+  }
 }
